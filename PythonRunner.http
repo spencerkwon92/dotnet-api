@@ -1,0 +1,6 @@
+@PythonRunner_HostAddress = http://localhost:5155
+
+GET {{PythonRunner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
